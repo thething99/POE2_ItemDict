@@ -1,50 +1,190 @@
 {
-    "Thawing Charm": "해동 호신부",
-    "Topaz Charm": "토파즈 호신부",
-    "Amethyst Charm": "자수정 호신부",
-    "Golden Charm": "황금 호신부",
-    "Staunching Charm": "지혈 호신부",
-    "Antidote Charm": "해독 호신부",
-    "Dousing Charm": "소화 호신부",
-    "Grounding Charm": "접지 호신부",
-    "Stone Charm": "돌 호신부",
-    "Silver Charm": "은 호신부",
-    "Ruby Charm": "루비 호신부",
-    "Sapphire Charm": "사파이어 호신부",
-    "Lesser Life Flask": "하위 생명력 플라스크",
-    "Medium Life Flask": "중형 생명력 플라스크",
-    "Greater Life Flask": "대용량 생명력 플라스크",
-    "Grand Life Flask": "거대 생명력 플라스크",
-    "Giant Life Flask": "초거대 생명력 플라스크",
-    "Colossal Life Flask": "초대형 생명력 플라스크",
-    "Gargantuan Life Flask": "가르강튀아 생명력 플라스크",
-    "Transcendent Life Flask": "초월한 생명력 플라스크",
-    "Ultimate Life Flask": "극한의 생명력 플라스크",
-    "Lesser Mana Flask": "하위 마나 플라스크",
-    "Medium Mana Flask": "중형 마나 플라스크",
-    "Greater Mana Flask": "대용량 마나 플라스크",
-    "Grand Mana Flask": "거대 마나 플라스크",
-    "Giant Mana Flask": "초거대 마나 플라스크",
-    "Colossal Mana Flask": "초대형 마나 플라스크",
-    "Gargantuan Mana Flask": "가르강튀아 마나 플라스크",
-    "Transcendent Mana Flask": "초월한 마나 플라스크",
-    "Ultimate Mana Flask": "극한의 마나 플라스크",
-    "Arakaali's Gift Antidote Charm": "아라칼리의 선물 해독 호신부",
-    "Beira's Anguish Dousing Charm": "베이라의 비통 소화 호신부",
-    "Blood of the Warrior Gargantuan Life Flask": "전사의 피 가르강튀아 생명력 플라스크",
-    "Breath of the Mountains Sapphire Charm": "산맥의 숨결 사파이어 호신부",
-    "Forsaken Bangle Amethyst Charm": "버림받은 팔찌 자수정 호신부",
-    "For Utopia Stone Charm": "유토피아를 위해 돌 호신부",
-    "Lavianga's Spirits Gargantuan Mana Flask": "라비앙가의 혼백 가르강튀아 마나 플라스크",
-    "Melting Maelstrom Ultimate Mana Flask": "녹아내리는 소용돌이 극한의 마나 플라스크",
-    "Nascent Hope Thawing Charm": "태동하는 희망 해동 호신부",
-    "Ngamahu's Chosen Ruby Charm": "나마후의 선택받은 자 루비 호신부",
-    "Olroth's Resolve Ultimate Life Flask": "올로스의 결의 극한의 생명력 플라스크",
-    "Opportunity Ultimate Life Flask": "기회 극한의 생명력 플라스크",
-    "Rite of Passage Golden Charm": "통과의례 황금 호신부",
-    "Sanguis Heroum Staunching Charm": "상귀스 헤로움 지혈 호신부",
-    "The Black Cat Grounding Charm": "검은 고양이 접지 호신부",
-    "The Fall of the Axe Silver Charm": "도끼의 추락 은 호신부",
-    "Uhtred's Chalice Transcendent Mana Flask": "우트레드의 성배 초월한 마나 플라스크",
-    "Valako's Roar Topaz Charm": "발라코의 포효 토파즈 호신부"
+    "토파즈 호신부": [
+        "",
+        "Topaz Charm"
+    ],
+    "자수정 호신부": [
+        "",
+        "Amethyst Charm"
+    ],
+    "황금 호신부": [
+        "",
+        "Golden Charm"
+    ],
+    "지혈 호신부": [
+        "",
+        "Staunching Charm"
+    ],
+    "해독 호신부": [
+        "",
+        "Antidote Charm"
+    ],
+    "소화 호신부": [
+        "",
+        "Dousing Charm"
+    ],
+    "접지 호신부": [
+        "",
+        "Grounding Charm"
+    ],
+    "돌 호신부": [
+        "",
+        "Stone Charm"
+    ],
+    "은 호신부": [
+        "",
+        "Silver Charm"
+    ],
+    "루비 호신부": [
+        "",
+        "Ruby Charm"
+    ],
+    "사파이어 호신부": [
+        "",
+        "Sapphire Charm"
+    ],
+    "하위 생명력 플라스크": [
+        "",
+        "Lesser Life Flask"
+    ],
+    "중형 생명력 플라스크": [
+        "",
+        "Medium Life Flask"
+    ],
+    "대용량 생명력 플라스크": [
+        "",
+        "Greater Life Flask"
+    ],
+    "거대 생명력 플라스크": [
+        "",
+        "Grand Life Flask"
+    ],
+    "초거대 생명력 플라스크": [
+        "",
+        "Giant Life Flask"
+    ],
+    "초대형 생명력 플라스크": [
+        "",
+        "Colossal Life Flask"
+    ],
+    "가르강튀아 생명력 플라스크": [
+        "",
+        "Gargantuan Life Flask"
+    ],
+    "초월한 생명력 플라스크": [
+        "",
+        "Transcendent Life Flask"
+    ],
+    "극한의 생명력 플라스크": [
+        "",
+        "Ultimate Life Flask"
+    ],
+    "하위 마나 플라스크": [
+        "",
+        "Lesser Mana Flask"
+    ],
+    "중형 마나 플라스크": [
+        "",
+        "Medium Mana Flask"
+    ],
+    "대용량 마나 플라스크": [
+        "",
+        "Greater Mana Flask"
+    ],
+    "거대 마나 플라스크": [
+        "",
+        "Grand Mana Flask"
+    ],
+    "초거대 마나 플라스크": [
+        "",
+        "Giant Mana Flask"
+    ],
+    "초대형 마나 플라스크": [
+        "",
+        "Colossal Mana Flask"
+    ],
+    "가르강튀아 마나 플라스크": [
+        "",
+        "Gargantuan Mana Flask"
+    ],
+    "초월한 마나 플라스크": [
+        "",
+        "Transcendent Mana Flask"
+    ],
+    "극한의 마나 플라스크": [
+        "",
+        "Ultimate Mana Flask"
+    ],
+    "아라칼리의 선물": [
+        "Arakaali's Gift",
+        "Antidote Charm"
+    ],
+    "베이라의 비통": [
+        "Beira's Anguish",
+        "Dousing Charm"
+    ],
+    "전사의 피": [
+        "Blood of the Warrior",
+        "Gargantuan Life Flask"
+    ],
+    "산맥의 숨결": [
+        "Breath of the Mountains",
+        "Sapphire Charm"
+    ],
+    "버림받은 팔찌": [
+        "Forsaken Bangle",
+        "Amethyst Charm"
+    ],
+    "유토피아를 위해": [
+        "For Utopia",
+        "Stone Charm"
+    ],
+    "라비앙가의 혼백": [
+        "Lavianga's Spirits",
+        "Gargantuan Mana Flask"
+    ],
+    "녹아내리는 소용돌이": [
+        "Melting Maelstrom",
+        "Ultimate Mana Flask"
+    ],
+    "태동하는 희망": [
+        "Nascent Hope",
+        "Thawing Charm"
+    ],
+    "나마후의 선택받은 자": [
+        "Ngamahu's Chosen",
+        "Ruby Charm"
+    ],
+    "올로스의 결의": [
+        "Olroth's Resolve",
+        "Ultimate Life Flask"
+    ],
+    "기회": [
+        "Opportunity",
+        "Ultimate Life Flask"
+    ],
+    "통과의례": [
+        "Rite of Passage",
+        "Golden Charm"
+    ],
+    "상귀스 헤로움": [
+        "Sanguis Heroum",
+        "Staunching Charm"
+    ],
+    "검은 고양이": [
+        "The Black Cat",
+        "Grounding Charm"
+    ],
+    "도끼의 추락": [
+        "The Fall of the Axe",
+        "Silver Charm"
+    ],
+    "우트레드의 성배": [
+        "Uhtred's Chalice",
+        "Transcendent Mana Flask"
+    ],
+    "발라코의 포효": [
+        "Valako's Roar",
+        "Topaz Charm"
+    ]
 }

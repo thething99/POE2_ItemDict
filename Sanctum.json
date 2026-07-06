@@ -1,15 +1,50 @@
 {
-    "Urn Relic": "단지 유물",
-    "Amphora Relic": "손잡이 항아리 유물",
-    "Vase Relic": "화병 유물",
-    "Seal Relic": "인장 유물",
-    "Coffer Relic": "궤짝 유물",
-    "Tapestry Relic": "융단 유물",
-    "Incense Relic": "향 유물",
-    "The Burden of Leadership Tapestry Relic": "통솔의 짐 융단 유물",
-    "The Changing Seasons Seal Relic": "변화하는 계절 인장 유물",
-    "The Desperate Alliance Vase Relic": "필사적인 동맹 화병 유물",
-    "The Last Flame Incense Relic": "마지막 불길 향 유물",
-    "The Peacemaker's Draught Amphora Relic": "평화주의자의 영약 손잡이 항아리 유물",
-    "The Remembered Tales Coffer Relic": "기억된 이야기들 궤짝 유물"
+    "손잡이 항아리 유물": [
+        "",
+        "Amphora Relic"
+    ],
+    "화병 유물": [
+        "",
+        "Vase Relic"
+    ],
+    "인장 유물": [
+        "",
+        "Seal Relic"
+    ],
+    "궤짝 유물": [
+        "",
+        "Coffer Relic"
+    ],
+    "융단 유물": [
+        "",
+        "Tapestry Relic"
+    ],
+    "향 유물": [
+        "",
+        "Incense Relic"
+    ],
+    "통솔의 짐": [
+        "The Burden of Leadership",
+        "Tapestry Relic"
+    ],
+    "변화하는 계절": [
+        "The Changing Seasons",
+        "Seal Relic"
+    ],
+    "필사적인 동맹": [
+        "The Desperate Alliance",
+        "Vase Relic"
+    ],
+    "마지막 불길": [
+        "The Last Flame",
+        "Incense Relic"
+    ],
+    "평화주의자의 영약": [
+        "The Peacemaker's Draught",
+        "Amphora Relic"
+    ],
+    "기억된 이야기들": [
+        "The Remembered Tales",
+        "Coffer Relic"
+    ]
 }

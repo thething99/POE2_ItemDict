@@ -1,65 +1,250 @@
 {
-    "Kulemak's Invitation": "쿨레막의 초대",
-    "Idol of Estazunti": "에스타준티의 우상",
-    "Breachlord Sac": "균열 군주 낭",
-    "Raven's Reflection": "큰까마귀의 투영",
-    "The Triskelion Reforged": "재련된 트리스켈리온",
-    "Head of the King": "왕의 머리",
-    "Expedition Logbook": "탐험 일지",
-    "Simulacrum": "복제된 영토",
-    "Breachstone": "균열석",
-    "An Audience with the King": "왕 알현",
-    "Waystone (Tier 1)": "경로석 (1등급)",
-    "Waystone (Tier 10)": "경로석 (10등급)",
-    "Waystone (Tier 11)": "경로석 (11등급)",
-    "Waystone (Tier 12)": "경로석 (12등급)",
-    "Waystone (Tier 13)": "경로석 (13등급)",
-    "Waystone (Tier 14)": "경로석 (14등급)",
-    "Waystone (Tier 15)": "경로석 (15등급)",
-    "Waystone (Tier 16)": "경로석 (16등급)",
-    "Waystone (Tier 2)": "경로석 (2등급)",
-    "Waystone (Tier 3)": "경로석 (3등급)",
-    "Waystone (Tier 4)": "경로석 (4등급)",
-    "Waystone (Tier 5)": "경로석 (5등급)",
-    "Waystone (Tier 6)": "경로석 (6등급)",
-    "Waystone (Tier 7)": "경로석 (7등급)",
-    "Waystone (Tier 8)": "경로석 (8등급)",
-    "Waystone (Tier 9)": "경로석 (9등급)",
-    "Ancient Crisis Fragment": "고대 위기 조각",
-    "Faded Crisis Fragment": "빛바랜 위기 조각",
-    "Weathered Crisis Fragment": "풍화된 위기 조각",
-    "Origin Core": "기원 핵",
-    "Origin Cradle": "기원 요람",
-    "Origin Spark": "기원 전기불꽃",
-    "Primary Calamity Fragment": "1차 대재난 조각",
-    "Secondary Calamity Fragment": "2차 대재난 조각",
-    "Tertiary Calamity Fragment": "3차 대재난 조각",
-    "Call of the Shadows": "그림자의 부름",
-    "Test of Strength Barya": "힘의 시험 바리야",
-    "Test of Will Barya": "의지의 시험 바리야",
-    "Test of Cunning Barya": "지혜의 시험 바리야",
-    "Test of Time Barya": "시간의 시험 바리야",
-    "Djinn Barya": "진 바리야",
-    "Abyss Tablet": "심연 서판",
-    "Breach Tablet": "균열 서판",
-    "Delirium Tablet": "환영 서판",
-    "Expedition Tablet": "탐험 서판",
-    "Irradiated Tablet": "방사능 노출 서판",
-    "Temple Tablet": "사원 서판",
-    "Overseer Tablet": "감독관 서판",
-    "Ritual Tablet": "의식 서판",
-    "Inscribed Ultimatum": "새겨진 결전",
-    "Cowardly Fate": "비겁한 운명",
-    "Deadly Fate": "치명적인 운명",
-    "Victorious Fate": "승리의 운명",
-    "Clear Skies Delirium Tablet": "맑은 하늘 환영 서판",
-    "Cruel Hegemony Overseer Tablet": "잔혹한 헤게모니 감독관 서판",
-    "Forgotten By Time Expedition Tablet": "시간에 잊힌 존재 탐험 서판",
-    "Freedom of Faith Ritual Tablet": "신념의 자유 의식 서판",
-    "Mastered Domain Irradiated Tablet": "통달한 영토 방사능 노출 서판",
-    "Season of the Hunt Overseer Tablet": "사냥철 감독관 서판",
-    "The Grand Project Irradiated Tablet": "대공사 방사능 노출 서판",
-    "Unforeseen Consequences Abyss Tablet": "예기치 못한 결과 심연 서판",
-    "Visions of Paradise Irradiated Tablet": "낙원의 환영 방사능 노출 서판",
-    "Wraeclast Besieged Breach Tablet": "포위당한 레이클라스트 균열 서판"
+    "에스타준티의 우상": [
+        "",
+        "Idol of Estazunti"
+    ],
+    "균열 군주 낭": [
+        "",
+        "Breachlord Sac"
+    ],
+    "큰까마귀의 투영": [
+        "",
+        "Raven's Reflection"
+    ],
+    "재련된 트리스켈리온": [
+        "",
+        "The Triskelion Reforged"
+    ],
+    "왕의 머리": [
+        "",
+        "Head of the King"
+    ],
+    "탐험 일지": [
+        "",
+        "Expedition Logbook"
+    ],
+    "복제된 영토": [
+        "",
+        "Simulacrum"
+    ],
+    "균열석": [
+        "",
+        "Breachstone"
+    ],
+    "왕 알현": [
+        "",
+        "An Audience with the King"
+    ],
+    "경로석 (1등급)": [
+        "",
+        "Waystone (Tier 1)"
+    ],
+    "경로석 (10등급)": [
+        "",
+        "Waystone (Tier 10)"
+    ],
+    "경로석 (11등급)": [
+        "",
+        "Waystone (Tier 11)"
+    ],
+    "경로석 (12등급)": [
+        "",
+        "Waystone (Tier 12)"
+    ],
+    "경로석 (13등급)": [
+        "",
+        "Waystone (Tier 13)"
+    ],
+    "경로석 (14등급)": [
+        "",
+        "Waystone (Tier 14)"
+    ],
+    "경로석 (15등급)": [
+        "",
+        "Waystone (Tier 15)"
+    ],
+    "경로석 (16등급)": [
+        "",
+        "Waystone (Tier 16)"
+    ],
+    "경로석 (2등급)": [
+        "",
+        "Waystone (Tier 2)"
+    ],
+    "경로석 (3등급)": [
+        "",
+        "Waystone (Tier 3)"
+    ],
+    "경로석 (4등급)": [
+        "",
+        "Waystone (Tier 4)"
+    ],
+    "경로석 (5등급)": [
+        "",
+        "Waystone (Tier 5)"
+    ],
+    "경로석 (6등급)": [
+        "",
+        "Waystone (Tier 6)"
+    ],
+    "경로석 (7등급)": [
+        "",
+        "Waystone (Tier 7)"
+    ],
+    "경로석 (8등급)": [
+        "",
+        "Waystone (Tier 8)"
+    ],
+    "경로석 (9등급)": [
+        "",
+        "Waystone (Tier 9)"
+    ],
+    "고대 위기 조각": [
+        "",
+        "Ancient Crisis Fragment"
+    ],
+    "빛바랜 위기 조각": [
+        "",
+        "Faded Crisis Fragment"
+    ],
+    "풍화된 위기 조각": [
+        "",
+        "Weathered Crisis Fragment"
+    ],
+    "기원 핵": [
+        "",
+        "Origin Core"
+    ],
+    "기원 요람": [
+        "",
+        "Origin Cradle"
+    ],
+    "기원 전기불꽃": [
+        "",
+        "Origin Spark"
+    ],
+    "1차 대재난 조각": [
+        "",
+        "Primary Calamity Fragment"
+    ],
+    "2차 대재난 조각": [
+        "",
+        "Secondary Calamity Fragment"
+    ],
+    "3차 대재난 조각": [
+        "",
+        "Tertiary Calamity Fragment"
+    ],
+    "그림자의 부름": [
+        "",
+        "Call of the Shadows"
+    ],
+    "힘의 시험 바리야": [
+        "",
+        "Test of Strength Barya"
+    ],
+    "의지의 시험 바리야": [
+        "",
+        "Test of Will Barya"
+    ],
+    "지혜의 시험 바리야": [
+        "",
+        "Test of Cunning Barya"
+    ],
+    "시간의 시험 바리야": [
+        "",
+        "Test of Time Barya"
+    ],
+    "진 바리야": [
+        "",
+        "Djinn Barya"
+    ],
+    "심연 서판": [
+        "",
+        "Abyss Tablet"
+    ],
+    "균열 서판": [
+        "",
+        "Breach Tablet"
+    ],
+    "환영 서판": [
+        "",
+        "Delirium Tablet"
+    ],
+    "탐험 서판": [
+        "",
+        "Expedition Tablet"
+    ],
+    "방사능 노출 서판": [
+        "",
+        "Irradiated Tablet"
+    ],
+    "사원 서판": [
+        "",
+        "Temple Tablet"
+    ],
+    "감독관 서판": [
+        "",
+        "Overseer Tablet"
+    ],
+    "의식 서판": [
+        "",
+        "Ritual Tablet"
+    ],
+    "새겨진 결전": [
+        "",
+        "Inscribed Ultimatum"
+    ],
+    "비겁한 운명": [
+        "",
+        "Cowardly Fate"
+    ],
+    "치명적인 운명": [
+        "",
+        "Deadly Fate"
+    ],
+    "승리의 운명": [
+        "",
+        "Victorious Fate"
+    ],
+    "맑은 하늘": [
+        "Clear Skies",
+        "Delirium Tablet"
+    ],
+    "잔혹한 헤게모니": [
+        "Cruel Hegemony",
+        "Overseer Tablet"
+    ],
+    "시간에 잊힌 존재": [
+        "Forgotten By Time",
+        "Expedition Tablet"
+    ],
+    "신념의 자유": [
+        "Freedom of Faith",
+        "Ritual Tablet"
+    ],
+    "통달한 영토": [
+        "Mastered Domain",
+        "Irradiated Tablet"
+    ],
+    "사냥철": [
+        "Season of the Hunt",
+        "Overseer Tablet"
+    ],
+    "대공사": [
+        "The Grand Project",
+        "Irradiated Tablet"
+    ],
+    "예기치 못한 결과": [
+        "Unforeseen Consequences",
+        "Abyss Tablet"
+    ],
+    "낙원의 환영": [
+        "Visions of Paradise",
+        "Irradiated Tablet"
+    ],
+    "포위당한 레이클라스트": [
+        "Wraeclast Besieged",
+        "Breach Tablet"
+    ]
 }

@@ -1,155 +1,602 @@
 {
-    "Crimson Amulet": "진홍색 목걸이",
-    "Gold Amulet": "황금 목걸이",
-    "Pearlescent Amulet": "진줏빛 목걸이",
-    "Azure Amulet": "담청색 목걸이",
-    "Amber Amulet": "호박 목걸이",
-    "Jade Amulet": "비취 목걸이",
-    "Lapis Amulet": "청금석 목걸이",
-    "Lunar Amulet": "달의 목걸이",
-    "Bloodstone Amulet": "혈석 목걸이",
-    "Stellar Amulet": "별의 목걸이",
-    "Solar Amulet": "태양의 목걸이",
-    "Lament Amulet": "한탄 목걸이",
-    "Portent Amulet": "전조 목걸이",
-    "Absent Amulet": "부재 목걸이",
-    "Corona Amulet": "광환 목걸이",
-    "Twisted Amulet": "뒤틀린 목걸이",
-    "Distorted Amulet": "왜곡된 목걸이",
-    "Dusk Amulet": "황혼 목걸이",
-    "Gloam Amulet": "석양 목걸이",
-    "Penumbra Amulet": "음영 목걸이",
-    "Tenebrous Amulet": "어둑한 목걸이",
-    "Veridical Chain": "현실 합치 사슬",
-    "Runemastered Veridical Chain": "룬숙련 현실 합치 사슬",
-    "Rawhide Belt": "생가죽 허리띠",
-    "Utility Belt": "특수 허리띠",
-    "Fine Belt": "섬세한 허리띠",
-    "Linen Belt": "리넨 허리띠",
-    "Wide Belt": "넓은 허리띠",
-    "Long Belt": "긴 허리띠",
-    "Plate Belt": "판금 허리띠",
-    "Ornate Belt": "화려한 허리띠",
-    "Mail Belt": "사슬 허리띠",
-    "Double Belt": "이중 허리띠",
-    "Heavy Belt": "무거운 허리띠",
-    "Runemastered Heavy Belt": "룬숙련 무거운 허리띠",
-    "Stalking Belt": "뒤를 쫓는 허리띠",
-    "Invoking Belt": "기원 허리띠",
-    "Sinew Belt": "힘줄 허리띠",
-    "Forking Belt": "갈라지는 허리띠",
-    "Iron Ring": "철제 반지",
-    "Gold Ring": "황금 반지",
-    "Unset Ring": "무보석 반지",
-    "Abyssal Signet": "심연의 인장",
-    "Two-Stone Ring": "쌍보석 반지",
-    "Lazuli Ring": "청금석 반지",
-    "Ruby Ring": "루비 반지",
-    "Sapphire Ring": "사파이어 반지",
-    "Topaz Ring": "토파즈 반지",
-    "Amethyst Ring": "자수정 반지",
-    "Emerald Ring": "에메랄드 반지",
-    "Pearl Ring": "진주 반지",
-    "Prismatic Ring": "분광 반지",
-    "Biostatic Ring": "생물정역학 반지",
-    "Vitalic Ring": "활력 반지",
-    "Mnemonic Ring": "기억 반지",
-    "Kinetic Ring": "역학 반지",
-    "Oneiric Ring": "몽상 반지",
-    "Grasping Ring": "거머쥐는 반지",
-    "Ring": "반지",
-    "Breach Ring": "균열 반지",
-    "Refined Breach Ring": "제련된 균열 반지",
-    "Dusk Ring": "황혼 반지",
-    "Gloam Ring": "석양 반지",
-    "Penumbra Ring": "음영 반지",
-    "Tenebrous Ring": "어둑한 반지",
-    "Andvarius Gold Ring": "앤드바리우스 황금 반지",
-    "Astramentis Stellar Amulet": "별의 보석 별의 목걸이",
-    "Beacon of Azis Solar Amulet": "아지스의 등불 태양의 목걸이",
-    "Berek's Grip Two-Stone Ring": "베렉의 손아귀 쌍보석 반지",
-    "Berek's Pass Two-Stone Ring": "베렉의 길 쌍보석 반지",
-    "Berek's Respite Two-Stone Ring": "베렉의 유예 쌍보석 반지",
-    "Bijouborne Double Belt": "보석박이 이중 허리띠",
-    "Birthright Buckle Wide Belt": "생득권 버클 넓은 허리띠",
-    "Blackflame Amethyst Ring": "검은화염 자수정 반지",
-    "Blackheart Iron Ring": "검은 심장 철제 반지",
-    "Blistering Bond Ruby Ring": "물집을 잡는 결속 루비 반지",
-    "Byrnabas Wide Belt": "비르나바스 넓은 허리띠",
-    "Bursting Decay Unset Ring": "터져 나오는 부패 무보석 반지",
-    "Call of the Brotherhood Topaz Ring": "형제의 부름 토파즈 반지",
-    "Carnage Heart Amber Amulet": "학살 심장 호박 목걸이",
-    "Cat O' Nine Tails Utility Belt": "아홉 꼬리 고양이 특수 허리띠",
-    "Choir of the Storm Jade Amulet": "태풍의 합창 비취 목걸이",
-    "Coward's Legacy Mail Belt": "겁쟁이의 유물 사슬 허리띠",
-    "Cracklecreep Ruby Ring": "살금박살 루비 반지",
-    "Darkness Enthroned Fine Belt": "어둠에 대한 경외 섬세한 허리띠",
-    "Death Rush Emerald Ring": "죽음의 재촉 에메랄드 반지",
-    "Defiance of Destiny Jade Amulet": "운명의 저항 비취 목걸이",
-    "Doedre's Damning Lazuli Ring": "도이드리의 파멸 청금석 반지",
-    "Dream Fragments Sapphire Ring": "꿈의 조각 사파이어 반지",
-    "Eventide Petals Veridical Chain": "해거름 꽃잎 현실 합치 사슬",
-    "Eventide Petals Runemastered Veridical Chain": "해거름 꽃잎 룬숙련 현실 합치 사슬",
-    "Evergrasping Ring Pearl Ring": "거머쥐는 손아귀의 반지 진주 반지",
-    "Eye of Chayula Gold Amulet": "차율라의 눈 황금 목걸이",
-    "Fireflower Solar Amulet": "화염꽃 태양의 목걸이",
-    "Fixation of Yix Stellar Amulet": "익스의 집착 별의 목걸이",
-    "Gifts from Above Prismatic Ring": "하늘에서 내려준 선물 분광 반지",
-    "Glowswarm Lazuli Ring": "빛무리 청금석 반지",
-    "Goregirdle Plate Belt": "선혈의 요대 판금 허리띠",
-    "Grip of Kulemak Abyssal Signet": "쿨레막의 손아귀 심연의 인장",
-    "Headhunter Heavy Belt": "헤드헌터 무거운 허리띠",
-    "Heartbound Loop Pearl Ring": "마음에 묶인 고리 진주 반지",
-    "Hinekora's Sight Stellar Amulet": "히네코라의 통찰력 별의 목걸이",
-    "Icefang Orbit Iron Ring": "얼음송곳니의 위력 철제 반지",
-    "Idol of Uldurn Crimson Amulet": "울던의 우상 진홍색 목걸이",
-    "Igniferis Crimson Amulet": "이그니페리스 진홍색 목걸이",
-    "Immaculate Adherence Solar Amulet": "완전무결한 준수 태양의 목걸이",
-    "Infernoclasp Plate Belt": "지옥불 죔쇠 판금 허리띠",
-    "Ingenuity Utility Belt": "기발함 특수 허리띠",
-    "Kalandra's Touch Ring": "칼란드라의 손길 반지",
-    "Keelhaul Linen Belt": "용골쓸기 리넨 허리띠",
-    "Levinstone Topaz Ring": "전광석 토파즈 반지",
-    "Ligurium Talisman Lapis Amulet": "리구리움 부적 청금석 목걸이",
-    "Mageblood Utility Belt": "마법사의 피 특수 허리띠",
-    "Meginord's Girdle Rawhide Belt": "메기노드의 허리띠 생가죽 허리띠",
-    "Midnight Braid Rawhide Belt": "심야의 끈 생가죽 허리띠",
-    "Ming's Heart Amethyst Ring": "밍의 심장 자수정 반지",
-    "Original Sin Amethyst Ring": "원죄 자수정 반지",
-    "Perandus Seal Gold Ring": "페란두스 봉인 황금 반지",
-    "Polcirkeln Sapphire Ring": "폴시르켈른 사파이어 반지",
-    "Prized Pain Iron Ring": "귀한 고통 철제 반지",
-    "Revered Resin Amber Amulet": "신성한 수지 호박 목걸이",
-    "Rondel of Fragility Lunar Amulet": "허약의 론델 달의 목걸이",
-    "Ryslatha's Coil Ornate Belt": "리슬라사의 감개 화려한 허리띠",
-    "Seed of Cataclysm Lazuli Ring": "대재앙의 씨앗 청금석 반지",
-    "Eshtera's Path Ring": "에슈테라의 길 반지",
-    "Safrin's Resolve Ring": "사프린의 결의 반지",
-    "Zaida's Longevity Ring": "자이다의 장수 반지",
-    "Serpent's Egg Gold Amulet": "독사의 알 황금 목걸이",
-    "Shavronne's Satchel Fine Belt": "샤브론의 가방 섬세한 허리띠",
-    "Snakepit Pearl Ring": "뱀 구덩이 진주 반지",
-    "Soul Tether Long Belt": "영혼 올가미 긴 허리띠",
-    "Stone of Lazhwar Lapis Amulet": "라즈워의 보석 청금석 목걸이",
-    "Strugglescream Stellar Amulet": "몸부림치는 비명 별의 목걸이",
-    "Surefooted Sigil Jade Amulet": "굳건한 부적 비취 목걸이",
-    "The Anvil Bloodstone Amulet": "모루 혈석 목걸이",
-    "The Burrower Topaz Ring": "굴착자 토파즈 반지",
-    "The Everlasting Gaze Azure Amulet": "영원한 응시 담청색 목걸이",
-    "The Gnashing Sash Wide Belt": "악무는 띠 넓은 허리띠",
-    "The Pandemonius Lapis Amulet": "대혼란 청금석 목걸이",
-    "The Taming Prismatic Ring": "조련 분광 반지",
-    "Thief's Torment Emerald Ring": "도둑의 고통 에메랄드 반지",
-    "Umbilicus Immortalis Linen Belt": "불멸의 탯줄 리넨 허리띠",
-    "Ungil's Harmony Azure Amulet": "웅힐의 조화 담청색 목걸이",
-    "Veilpiercer Amethyst Ring": "장막송곳 자수정 반지",
-    "Venopuncture Iron Ring": "혈관 관통 철제 반지",
-    "Ventor's Gamble Gold Ring": "벤토의 도박 황금 반지",
-    "Vigilant View Emerald Ring": "경계하는 시야 에메랄드 반지",
-    "Waistgate Heavy Belt": "허리문 무거운 허리띠",
-    "Waistgate Runemastered Heavy Belt": "허리문 룬숙련 무거운 허리띠",
-    "Whisper of the Brotherhood Sapphire Ring": "형제의 속삭임 사파이어 반지",
-    "Xoph's Blood Amber Amulet": "조프의 피 호박 목걸이",
-    "Yoke of Suffering Bloodstone Amulet": "고통의 멍에 혈석 목걸이",
-    "Zerphi's Genesis Heavy Belt": "제르피의 시원 무거운 허리띠"
+    "황금 목걸이": [
+        "",
+        "Gold Amulet"
+    ],
+    "진줏빛 목걸이": [
+        "",
+        "Pearlescent Amulet"
+    ],
+    "담청색 목걸이": [
+        "",
+        "Azure Amulet"
+    ],
+    "호박 목걸이": [
+        "",
+        "Amber Amulet"
+    ],
+    "비취 목걸이": [
+        "",
+        "Jade Amulet"
+    ],
+    "청금석 목걸이": [
+        "",
+        "Lapis Amulet"
+    ],
+    "달의 목걸이": [
+        "",
+        "Lunar Amulet"
+    ],
+    "혈석 목걸이": [
+        "",
+        "Bloodstone Amulet"
+    ],
+    "별의 목걸이": [
+        "",
+        "Stellar Amulet"
+    ],
+    "태양의 목걸이": [
+        "",
+        "Solar Amulet"
+    ],
+    "한탄 목걸이": [
+        "",
+        "Lament Amulet"
+    ],
+    "전조 목걸이": [
+        "",
+        "Portent Amulet"
+    ],
+    "부재 목걸이": [
+        "",
+        "Absent Amulet"
+    ],
+    "광환 목걸이": [
+        "",
+        "Corona Amulet"
+    ],
+    "뒤틀린 목걸이": [
+        "",
+        "Twisted Amulet"
+    ],
+    "왜곡된 목걸이": [
+        "",
+        "Distorted Amulet"
+    ],
+    "황혼 목걸이": [
+        "",
+        "Dusk Amulet"
+    ],
+    "석양 목걸이": [
+        "",
+        "Gloam Amulet"
+    ],
+    "음영 목걸이": [
+        "",
+        "Penumbra Amulet"
+    ],
+    "어둑한 목걸이": [
+        "",
+        "Tenebrous Amulet"
+    ],
+    "현실 합치 사슬": [
+        "",
+        "Veridical Chain"
+    ],
+    "룬숙련 현실 합치 사슬": [
+        "",
+        "Runemastered Veridical Chain"
+    ],
+    "생가죽 허리띠": [
+        "",
+        "Rawhide Belt"
+    ],
+    "특수 허리띠": [
+        "",
+        "Utility Belt"
+    ],
+    "섬세한 허리띠": [
+        "",
+        "Fine Belt"
+    ],
+    "리넨 허리띠": [
+        "",
+        "Linen Belt"
+    ],
+    "넓은 허리띠": [
+        "",
+        "Wide Belt"
+    ],
+    "긴 허리띠": [
+        "",
+        "Long Belt"
+    ],
+    "판금 허리띠": [
+        "",
+        "Plate Belt"
+    ],
+    "화려한 허리띠": [
+        "",
+        "Ornate Belt"
+    ],
+    "사슬 허리띠": [
+        "",
+        "Mail Belt"
+    ],
+    "이중 허리띠": [
+        "",
+        "Double Belt"
+    ],
+    "무거운 허리띠": [
+        "",
+        "Heavy Belt"
+    ],
+    "룬숙련 무거운 허리띠": [
+        "",
+        "Runemastered Heavy Belt"
+    ],
+    "뒤를 쫓는 허리띠": [
+        "",
+        "Stalking Belt"
+    ],
+    "기원 허리띠": [
+        "",
+        "Invoking Belt"
+    ],
+    "힘줄 허리띠": [
+        "",
+        "Sinew Belt"
+    ],
+    "갈라지는 허리띠": [
+        "",
+        "Forking Belt"
+    ],
+    "철제 반지": [
+        "",
+        "Iron Ring"
+    ],
+    "황금 반지": [
+        "",
+        "Gold Ring"
+    ],
+    "무보석 반지": [
+        "",
+        "Unset Ring"
+    ],
+    "심연의 인장": [
+        "",
+        "Abyssal Signet"
+    ],
+    "쌍보석 반지": [
+        "",
+        "Two-Stone Ring"
+    ],
+    "청금석 반지": [
+        "",
+        "Lazuli Ring"
+    ],
+    "루비 반지": [
+        "",
+        "Ruby Ring"
+    ],
+    "사파이어 반지": [
+        "",
+        "Sapphire Ring"
+    ],
+    "토파즈 반지": [
+        "",
+        "Topaz Ring"
+    ],
+    "자수정 반지": [
+        "",
+        "Amethyst Ring"
+    ],
+    "에메랄드 반지": [
+        "",
+        "Emerald Ring"
+    ],
+    "진주 반지": [
+        "",
+        "Pearl Ring"
+    ],
+    "분광 반지": [
+        "",
+        "Prismatic Ring"
+    ],
+    "생물정역학 반지": [
+        "",
+        "Biostatic Ring"
+    ],
+    "활력 반지": [
+        "",
+        "Vitalic Ring"
+    ],
+    "기억 반지": [
+        "",
+        "Mnemonic Ring"
+    ],
+    "역학 반지": [
+        "",
+        "Kinetic Ring"
+    ],
+    "몽상 반지": [
+        "",
+        "Oneiric Ring"
+    ],
+    "거머쥐는 반지": [
+        "",
+        "Grasping Ring"
+    ],
+    "반지": [
+        "",
+        "Ring"
+    ],
+    "균열 반지": [
+        "",
+        "Breach Ring"
+    ],
+    "제련된 균열 반지": [
+        "",
+        "Refined Breach Ring"
+    ],
+    "황혼 반지": [
+        "",
+        "Dusk Ring"
+    ],
+    "석양 반지": [
+        "",
+        "Gloam Ring"
+    ],
+    "음영 반지": [
+        "",
+        "Penumbra Ring"
+    ],
+    "어둑한 반지": [
+        "",
+        "Tenebrous Ring"
+    ],
+    "앤드바리우스": [
+        "Andvarius",
+        "Gold Ring"
+    ],
+    "별의 보석": [
+        "Astramentis",
+        "Stellar Amulet"
+    ],
+    "아지스의 등불": [
+        "Beacon of Azis",
+        "Solar Amulet"
+    ],
+    "베렉의 손아귀": [
+        "Berek's Grip",
+        "Two-Stone Ring"
+    ],
+    "베렉의 길": [
+        "Berek's Pass",
+        "Two-Stone Ring"
+    ],
+    "베렉의 유예": [
+        "Berek's Respite",
+        "Two-Stone Ring"
+    ],
+    "보석박이": [
+        "Bijouborne",
+        "Double Belt"
+    ],
+    "생득권 버클": [
+        "Birthright Buckle",
+        "Wide Belt"
+    ],
+    "검은화염": [
+        "Blackflame",
+        "Amethyst Ring"
+    ],
+    "검은 심장": [
+        "Blackheart",
+        "Iron Ring"
+    ],
+    "물집을 잡는 결속": [
+        "Blistering Bond",
+        "Ruby Ring"
+    ],
+    "비르나바스": [
+        "Byrnabas",
+        "Wide Belt"
+    ],
+    "터져 나오는 부패": [
+        "Bursting Decay",
+        "Unset Ring"
+    ],
+    "형제의 부름": [
+        "Call of the Brotherhood",
+        "Topaz Ring"
+    ],
+    "학살 심장": [
+        "Carnage Heart",
+        "Amber Amulet"
+    ],
+    "아홉 꼬리 고양이": [
+        "Cat O' Nine Tails",
+        "Utility Belt"
+    ],
+    "태풍의 합창": [
+        "Choir of the Storm",
+        "Jade Amulet"
+    ],
+    "겁쟁이의 유물": [
+        "Coward's Legacy",
+        "Mail Belt"
+    ],
+    "살금박살": [
+        "Cracklecreep",
+        "Ruby Ring"
+    ],
+    "어둠에 대한 경외": [
+        "Darkness Enthroned",
+        "Fine Belt"
+    ],
+    "죽음의 재촉": [
+        "Death Rush",
+        "Emerald Ring"
+    ],
+    "운명의 저항": [
+        "Defiance of Destiny",
+        "Jade Amulet"
+    ],
+    "도이드리의 파멸": [
+        "Doedre's Damning",
+        "Lazuli Ring"
+    ],
+    "꿈의 조각": [
+        "Dream Fragments",
+        "Sapphire Ring"
+    ],
+    "해거름 꽃잎": [
+        "Eventide Petals",
+        "Runemastered Veridical Chain"
+    ],
+    "거머쥐는 손아귀의 반지": [
+        "Evergrasping Ring",
+        "Pearl Ring"
+    ],
+    "차율라의 눈": [
+        "Eye of Chayula",
+        "Gold Amulet"
+    ],
+    "화염꽃": [
+        "Fireflower",
+        "Solar Amulet"
+    ],
+    "익스의 집착": [
+        "Fixation of Yix",
+        "Stellar Amulet"
+    ],
+    "하늘에서 내려준 선물": [
+        "Gifts from Above",
+        "Prismatic Ring"
+    ],
+    "빛무리": [
+        "Glowswarm",
+        "Lazuli Ring"
+    ],
+    "선혈의 요대": [
+        "Goregirdle",
+        "Plate Belt"
+    ],
+    "쿨레막의 손아귀": [
+        "Grip of Kulemak",
+        "Abyssal Signet"
+    ],
+    "헤드헌터": [
+        "Headhunter",
+        "Heavy Belt"
+    ],
+    "마음에 묶인 고리": [
+        "Heartbound Loop",
+        "Pearl Ring"
+    ],
+    "히네코라의 통찰력": [
+        "Hinekora's Sight",
+        "Stellar Amulet"
+    ],
+    "얼음송곳니의 위력": [
+        "Icefang Orbit",
+        "Iron Ring"
+    ],
+    "울던의 우상": [
+        "Idol of Uldurn",
+        "Crimson Amulet"
+    ],
+    "이그니페리스": [
+        "Igniferis",
+        "Crimson Amulet"
+    ],
+    "완전무결한 준수": [
+        "Immaculate Adherence",
+        "Solar Amulet"
+    ],
+    "지옥불 죔쇠": [
+        "Infernoclasp",
+        "Plate Belt"
+    ],
+    "기발함": [
+        "Ingenuity",
+        "Utility Belt"
+    ],
+    "칼란드라의 손길": [
+        "Kalandra's Touch",
+        "Ring"
+    ],
+    "용골쓸기": [
+        "Keelhaul",
+        "Linen Belt"
+    ],
+    "전광석": [
+        "Levinstone",
+        "Topaz Ring"
+    ],
+    "리구리움 부적": [
+        "Ligurium Talisman",
+        "Lapis Amulet"
+    ],
+    "마법사의 피": [
+        "Mageblood",
+        "Utility Belt"
+    ],
+    "메기노드의 허리띠": [
+        "Meginord's Girdle",
+        "Rawhide Belt"
+    ],
+    "심야의 끈": [
+        "Midnight Braid",
+        "Rawhide Belt"
+    ],
+    "밍의 심장": [
+        "Ming's Heart",
+        "Amethyst Ring"
+    ],
+    "원죄": [
+        "Original Sin",
+        "Amethyst Ring"
+    ],
+    "페란두스 봉인": [
+        "Perandus Seal",
+        "Gold Ring"
+    ],
+    "폴시르켈른": [
+        "Polcirkeln",
+        "Sapphire Ring"
+    ],
+    "귀한 고통": [
+        "Prized Pain",
+        "Iron Ring"
+    ],
+    "신성한 수지": [
+        "Revered Resin",
+        "Amber Amulet"
+    ],
+    "허약의 론델": [
+        "Rondel of Fragility",
+        "Lunar Amulet"
+    ],
+    "리슬라사의 감개": [
+        "Ryslatha's Coil",
+        "Ornate Belt"
+    ],
+    "대재앙의 씨앗": [
+        "Seed of Cataclysm",
+        "Lazuli Ring"
+    ],
+    "에슈테라의 길": [
+        "Eshtera's Path",
+        "Ring"
+    ],
+    "사프린의 결의": [
+        "Safrin's Resolve",
+        "Ring"
+    ],
+    "자이다의 장수": [
+        "Zaida's Longevity",
+        "Ring"
+    ],
+    "독사의 알": [
+        "Serpent's Egg",
+        "Gold Amulet"
+    ],
+    "샤브론의 가방": [
+        "Shavronne's Satchel",
+        "Fine Belt"
+    ],
+    "뱀 구덩이": [
+        "Snakepit",
+        "Pearl Ring"
+    ],
+    "영혼 올가미": [
+        "Soul Tether",
+        "Long Belt"
+    ],
+    "라즈워의 보석": [
+        "Stone of Lazhwar",
+        "Lapis Amulet"
+    ],
+    "몸부림치는 비명": [
+        "Strugglescream",
+        "Stellar Amulet"
+    ],
+    "굳건한 부적": [
+        "Surefooted Sigil",
+        "Jade Amulet"
+    ],
+    "모루": [
+        "The Anvil",
+        "Bloodstone Amulet"
+    ],
+    "굴착자": [
+        "The Burrower",
+        "Topaz Ring"
+    ],
+    "영원한 응시": [
+        "The Everlasting Gaze",
+        "Azure Amulet"
+    ],
+    "악무는 띠": [
+        "The Gnashing Sash",
+        "Wide Belt"
+    ],
+    "대혼란": [
+        "The Pandemonius",
+        "Lapis Amulet"
+    ],
+    "조련": [
+        "The Taming",
+        "Prismatic Ring"
+    ],
+    "도둑의 고통": [
+        "Thief's Torment",
+        "Emerald Ring"
+    ],
+    "불멸의 탯줄": [
+        "Umbilicus Immortalis",
+        "Linen Belt"
+    ],
+    "웅힐의 조화": [
+        "Ungil's Harmony",
+        "Azure Amulet"
+    ],
+    "장막송곳": [
+        "Veilpiercer",
+        "Amethyst Ring"
+    ],
+    "혈관 관통": [
+        "Venopuncture",
+        "Iron Ring"
+    ],
+    "벤토의 도박": [
+        "Ventor's Gamble",
+        "Gold Ring"
+    ],
+    "경계하는 시야": [
+        "Vigilant View",
+        "Emerald Ring"
+    ],
+    "허리문": [
+        "Waistgate",
+        "Runemastered Heavy Belt"
+    ],
+    "형제의 속삭임": [
+        "Whisper of the Brotherhood",
+        "Sapphire Ring"
+    ],
+    "조프의 피": [
+        "Xoph's Blood",
+        "Amber Amulet"
+    ],
+    "고통의 멍에": [
+        "Yoke of Suffering",
+        "Bloodstone Amulet"
+    ],
+    "제르피의 시원": [
+        "Zerphi's Genesis",
+        "Heavy Belt"
+    ]
 }
